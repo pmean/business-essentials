@@ -11,23 +11,29 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Abstract
+## Overview
 
-If you want to set up your own consulting business, you need to learn a few basic business skills. You need to set up an independent financial system for income and expenses. You need to decide between a sole proprietorship, a limited liability corporation, or an S/C Corporation. You need a system for invoicing. You need to examine insurance options. This webinar will explain why each of these is important. Disclaimer: I am not a lawyer, an accountant, or an insurance agent. Furthermore, there are no “one size fits all” solutions. This webinar will help you know what your options are, but you should discuss your particular situation with a qualified lawyer and accountant to choose what is best for you.
+In this presentation, you will learn to
 
-The slides for this talk are available at 
+- Understand the pros and cons of consulting.
+- Define the various business entities that you can use for your consulting business.
+- Set up a simple process for billing and accounting.
+- Discuss common elements in a consulting contract.
+- ~~How to find new customers~~
 
-https://github.com/pmean/business-essentials
+I owe a great debt gratitude for the many interesting questions and  comments posted on the Statistical Consulting Section discussion forum.
 
 <div class="notes">
 
-Include speaker notes here.
+Here's a brief outline of what I'll talk about today. I will try to keep my comments to 60 minutes of this 90 minute webinar. Ask questions as they occur to you, but I will not answer them until the last 30 minutes.
+
+I will not talk about how to find new customers, as that is a topic important enough to merit its own webinar.
 
 </div>
 
 ## A bit about myself
 
-![Alt text: Various logos of places where I work](../images/various-logos.png)
+![Alt text: Various logos of places where I work, plus a mug shot](../images/various-logos-1.png)
 
 Visit my websites
 
@@ -43,28 +49,13 @@ or you can contact me various ways
 
 I have three jobs! I am a part-time independent consultant with a sole proprietorship, P.Mean Consulting. P. Mean is short for Professor Mean, my alter-ego on the Internet. For those who don't get the joke, I point out the Professor Mean is not just your average professor.
 
+When I started my own consulting business, there were no obvious guides written by statisticians on how to do this, so I started documenting things and presented these at various conferences and on the web. I’ve also gotten a lot of advice along the way from other independent statistical consultants.
+
 I am also a part-time faculty member in the Department of Biomedical and Health Informatics at the University of Missouri-Kansas City. 
 
 I also have a research grant with Enterprise Analytics at Kansas University Medical Center.
 
 If anyone is familiar with the computer term "thrashing", that is a definition of my life now. I am looking for a single full-time benefits eligible job.
-
-</div>
-
-## Overview
-
-In this presentation, you will learn to
-
-- Understand the pros and cons of consulting.
-- Define the various business entities that you can use for your consulting business.
-- Set up a simple process for billing and accounting.
-- Discuss common elements in a consulting contract.
-
-Thanks for the many interesting comments posted on the Statistical Consulting Section discussion forum.
-
-<div class="notes">
-
-Here's a brief outline of what I'll talk about today. I will try to keep my comments to 60 minutes of this 90 minute webinar. Ask questions as they occur to you, but I will not answer them until the last 30 minutes.
 
 </div>
 
@@ -91,17 +82,103 @@ On the positive side, you can pick your own hours and your own customers. You ca
 ## Various business entities.
 
 - Sole proprietorship
+- ~~Business partnership~~
 - Limited Liability Corporation (LLC)
 - S chapter/C chapter corporation
-- ~~Business partnership~~
 
 Caution: I am not a lawyer. Also laws about business entities vary greatly from state to state.
 
 <div class="notes">
 
-Talk to a lawyer about these choices. A sole proprietorship is the easiest business entity to start up, but the others are not that difficult. The LLC and S/C chapter corporations offer some protection of your personal assets against creditors. The distinction between the LLC and S/C chapter corporations involves taxation.
+You can start as a sole proprietorship and convert to an LLC or S/C corporation later. You can also convert an LLC to an S/C corporation.
+
+I am a sole proprietorship, but that choice may not be the right one for you. Talk to a lawyer about these choices.
+
+</div>
+
+## Various business entities.
+
+- <div class="red">Sole proprietorship</div>
+- ~~Business partnership~~
+- Limited Liability Corporation (LLC)
+- S chapter/C chapter corporation
+
+<div class="notes">
+
+In a sole proprietorship, you are doing business under your name.  You do not need to file any paperwork and taxes are relatively simple.  It cannot be a partnership (sole=one and only one). You are personally liable for any debts and cannot protect your personal assets if you get sued.
+
+</div>
+
+## Various business entities.
+
+- Sole proprietorship
+- <div class="red">~~Business partnership~~</div>
+- Limited Liability Corporation (LLC)
+- S chapter/C chapter corporation
+
+<div class="notes">
+
+In a partnership, two or more people share ownership of a business. In a partnership, partners are jointly and individually liable. You must define issues associated with dividing profits and the different responsibilities of each partner. You also need rules on how to add new partners and how to dissolve the partnership.
+
+Most independent consulting situations do not fit in well with a partnership model. It often makes more sense to contract out work from one “partner” to the other on a client by client basis.
 
 I do not recommend a business partnership. It's very complicated to set up properly. It would be simpler for you to set up your own business entity and then subcontract some of the work to your "partner".
+
+</div>
+
+## Various business entities.
+
+- Sole proprietorship
+- ~~Business partnership~~
+- <div class="red">Limited Liability Corporation (LLC)</div>
+- S chapter/C chapter corporation
+
+Caution: I am not a lawyer. Also laws about business entities vary greatly from state to state.
+
+<div class="notes">
+
+A limited liability company (LLC) produces an independent legal entity that conducts business under its own name. It provides protection against creditors and litigants (hence the “limited” in the name). It requires some legal paperwork and possibly some legal fees.
+
+</div>
+
+## Various business entities.
+
+- Sole proprietorship
+- ~~Business partnership~~
+- Limited Liability Corporation (LLC)
+- <div class="red">S chapter/C chapter corporation</div>
+
+Caution: I am not a lawyer. Also laws about business entities vary greatly from state to state.
+
+<div class="notes">
+
+An S corporation/C corporation also produces an independent legal entity that conducts business under its own name. It has some protection against creditors and litigants. It has more stringent legal requirements than an LLC. Like an LLC, it requires paperwork and legal fees. It has special rules for taxation that can sometime save you money. Tax rules are the biggest differentiation between an LLC and an S/C corporation and also the biggest differentiation between an S corporation and a C corporation.
+
+</div>
+
+## Questions to ask about business entities
+
+1. Are you taking out a loan to start your independent consulting business?
+
+2. How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
+
+3. How sensitive are you to tax issues?
+
+4. How complicated do you want your legal/accounting life to be? 
+
+<div class="notes">
+
+Here are some questions to ask before deciding on sole proprietorship or LLC or S/C corporation. 
+
+1. Large loans may make you seek out the financial protections of an LLC or S/C corporation.
+
+2.  An S/C corporation offers ways to route income through different routes with different tax implications. The S/C corporation might also offer tax advantages to the payment of health benefits to yourself.
+
+3. You may or may not see substantial tax savings with different business models.
+
+4. The sole proprietorship has the fewest complications and the S/C corporation has the most complications.
+
+It’s important to note that the rules on each of these business models vary from state to state! Talk to a lawyer, talk to a lawyer, talk to a lawyer!
 
 </div>
 
@@ -123,6 +200,75 @@ If you bill by the project, get a scope of work in writing. If the scope of the 
 ## You get paid through an invoice
 
 ![Alt text: Image of a sample invoice](../images/sample-invoice-0000.png)
+
+## Set up a separate bank account
+
+Keep business and personal expenses separated.
+
+## Contracts
+
+“A verbal contract isn’t worth the paper it is written on.”
+Samuel Goldwyn, found at www.brainyquote.com/quotes/quotes/s/samuelgold122394.html
+
+You can dispense with a contract if you trust the other party to treat you fairly or if you are willing to handle an unresolvable dispute by forgoing your consulting fee.
+
+<div class="notes">
+
+Even if you don’t have a formal contract, you should send an email that outlines your understanding of what you will do and when and what you expect from your client.
+
+
+</div>
+
+## Contracts
+
+Some elements that this contract could cover include:
+
+- How much and how often you will be paid.
+- The scope of work of the project.
+- How to handle disputes.
+- Issues involving liability (protection against lawsuits involving third parties).
+- Assurances about maintaining appropriate confidentiality for any data you receive.
+
+<div class="notes">
+
+A good contract should be symmetrical and not place all of the burden (e.g., penalties, liability risks) on one party.
+
+</div>
+
+## Contracts
+
+Look out for provisions that 
+
+- place all the responsibility in your lap should a third party decide to sue your client.
+- limit your ability to seek redress if there is a dispute between you and the client
+- place unreasonable demands on you (e.g., carrying an excessive amount of insurance).
+- that limit your ability to re-use your own code for other clients.
+- that restrict your consulting fee to the lowest amount that you charge anyone else.
+- that make your fee contingent on a certain statistical outcome.
+
+## Some good advice on contracts
+
+“I long ago learned the power of "just saying no" in contract negotiations.  The vast majority of stuff I cross out, with only a cursory explanation of why (no need to write paragraphs) is accepted with no objection whatsoever.  I'm not shy about crossing out lots of things, either.  It's often standard boilerplate whose purpose was long forgotten, or stuff some lazy lawyer put in either so they could use the same contract for everything or to avoid having to question the client as to what protections they really needed.  If there's an actual reason for it that applies to your situation, you'll hear about it once you say "no," and can go from there.” David Lyon, Email to the Statistics Consulting Section of the ASA, August 30, 2014.
+
+<div class="notes">
+
+The best advice I heard about contracts was in an email sent to the Consulting Section discussion board. It was so well written that I am quoting it here verbatim.
+
+</div>
+
+## There are two types of insurance
+
+Personal insurance
+- Life insurance
+- Health insurance
+- Disability insurance
+- etc.
+
+Business insurance
+- Liability insurance
+- Errors and Omissions insurance
+
+
 
 ## Summary
 
