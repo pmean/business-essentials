@@ -59,6 +59,38 @@ If anyone is familiar with the computer term "thrashing", that is a definition o
 
 </div>
 
+## What color is your consulting parachute?
+
+Take 30 seconds and dream about what your life will be like in five years. If you don't mind sharing your dream with the rest of us, that would be appreciated.
+
+Thinking about your goals five years from now will help you understand the type of consulting business that you want to start and will help you take the first steps in that direction.
+
+<div class="notes">
+
+I have two dreams. I want to be the Principal Investigator for a big NIH grant and I want to write a book on case studies in research ethics using a graphic novel format. I am not an artist, so if anyone listening knows of a good artist who could produce the drawings associated with a good graphic novel, let me know.
+
+</div>
+
+## Two types of consultants.
+
+You are an internal consultant if
+
+- you are part of a larger organization
+- you have a "boss".
+
+You are an independent consulant if
+
+- you work alone (or in a small group)
+- you are your own boss.
+
+<div class="notes">
+
+If you are an internal consultant, you have someone who supervises you, assigns you work, and (hopefully) helps you grow and develop in your skills.
+
+If you are an independent consultant, you work by yourself (or in a very small group). You find your own work and you supervise yourself.
+
+</div>
+
 ## How independent consulting is different
 
 Cons
@@ -74,6 +106,76 @@ Pros
 <div class="notes">
 
 Here are some of the ways that independent consulting is different.
+
+</div>
+
+## How independent consulting is different
+
+Cons
+ 
+- <div class="red">No support network</div>
+- No subsidization for professional development
+- Highly variable workload
+
+Pros
+
+- You are your own boss.
+
+<div class="notes">
+
+If you're on your own, you miss out on a lot of support, such as a Human Resources department. You can't pop your head over the cubicle wall and ask a question. No one will decorate your cubicle balloons on your birthday or bring in delicious food on pot luck Friday. 
+
+</div>
+
+## How independent consulting is different
+
+Cons
+ 
+- No support network
+- <div class="red">No subsidization for professional development</div>
+- Highly variable workload
+
+Pros
+
+- You are your own boss.
+
+<div class="notes">
+
+I have not yet found a client who will pay me to go to the Joint Statistical Meetings. 
+
+</div>
+
+## How independent consulting is different
+
+Cons
+ 
+- No support network
+- No subsidization for professional development
+- <div class="red">Highly variable workload</div>
+
+Pros
+
+- You are your own boss.
+
+<div class="notes">
+
+In a large organization, there is at least some attempt to spread the workload evenly among you and others. In consulting, it is either feast or famine. You will have long stretches with no work and then all of sudden, you're busier than you can imagine.
+
+</div>
+
+## How independent consulting is different
+
+Cons
+ 
+- No support network
+- No subsidization for professional development
+- Highly variable workload
+
+Pros
+
+- <div class="red">You are your own boss.</div>
+
+<div class="notes">
 
 On the positive side, you can pick your own hours and your own customers. You can seek out work that you like and avoid work that you dislike.
 
@@ -158,25 +260,67 @@ An S corporation/C corporation also produces an independent legal entity that co
 
 ## Questions to ask about business entities
 
-1. Are you taking out a loan to start your independent consulting business?
+- <div class="red">Are you taking out a loan to start your inpependent consulting business?</div>
 
-2. How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
+- How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
 
-3. How sensitive are you to tax issues?
+- How sensitive are you to tax issues?
 
-4. How complicated do you want your legal/accounting life to be? 
+- How complicated do you want your legal/accounting life to be? 
 
 <div class="notes">
 
 Here are some questions to ask before deciding on sole proprietorship or LLC or S/C corporation. 
 
-1. Large loans may make you seek out the financial protections of an LLC or S/C corporation.
+- Large loans may make you seek out the financial protections of an LLC or S/C corporation.
 
-2.  An S/C corporation offers ways to route income through different routes with different tax implications. The S/C corporation might also offer tax advantages to the payment of health benefits to yourself.
+</div>
 
-3. You may or may not see substantial tax savings with different business models.
+## Questions to ask about business entities
 
-4. The sole proprietorship has the fewest complications and the S/C corporation has the most complications.
+- Are you taking out a loan to start your independent consulting business?
+
+- <div class="red">How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.</div>
+
+- How sensitive are you to tax issues?
+
+- How complicated do you want your legal/accounting life to be? 
+
+<div class="notes">
+
+- An S/C corporation offers ways to route income through different routes with different tax implications. The S/C corporation might also offer tax advantages to the payment of health benefits to yourself.
+
+</div>
+
+## Questions to ask about business entities
+
+- Are you taking out a loan to start your independent consulting business?
+
+- How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
+
+- <div class="red">How sensitive are you to tax issues?</div>
+
+- How complicated do you want your legal/accounting life to be?
+
+<div class="notes">
+
+- You may or may not see substantial tax savings with different business models.
+
+</div>
+
+## Questions to ask about business entities
+
+- Are you taking out a loan to start your independent consulting business?
+
+- How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
+
+- How sensitive are you to tax issues?
+
+- <div class="red">How complicated do you want your legal/accounting life to be?</div>
+
+<div class="notes">
+
+- The sole proprietorship has the fewest complications and the S/C corporation has the most complications.
 
 It’s important to note that the rules on each of these business models vary from state to state! Talk to a lawyer, talk to a lawyer, talk to a lawyer!
 
