@@ -212,8 +212,6 @@ In a sole proprietorship, you are doing business under your name.  You do not ne
 
 In a partnership, two or more people share ownership of a business. In a partnership, partners are jointly and individually liable. You must define issues associated with dividing profits and the different responsibilities of each partner. You also need rules on how to add new partners and how to dissolve the partnership.
 
-Most independent consulting situations do not fit in well with a partnership model. It often makes more sense to contract out work from one “partner” to the other on a client by client basis.
-
 I do not recommend a business partnership. It's very complicated to set up properly. It would be simpler for you to set up your own business entity and then subcontract some of the work to your "partner".
 
 </div>
@@ -239,8 +237,6 @@ A limited liability company (LLC) produces an independent legal entity that cond
 - ~~Business partnership~~
 - Limited Liability Corporation (LLC)
 - <div class="red">S chapter/C chapter corporation</div>
-
-Caution: I am not a lawyer. Also laws about business entities vary greatly from state to state.
 
 <div class="notes">
 
@@ -426,7 +422,7 @@ The best advice I heard about contracts was in an email sent to the Consulting S
 
 </div>
 
-## There are two types of insurance
+## Insurance -- personal insurance
 
 Personal insurance
 - Life insurance
@@ -438,7 +434,35 @@ Business insurance
 - Liability insurance
 - Errors and Omissions insurance
 
+<div class="notes">
 
+Before you quit your normal job, talk to human resources about options to continue your insurance coverage after you leave work. You can also purchase insurance through some professional organizations, such as the National Association of the Self Employed. You can always find a insurance agent and purchase your own insurance directly from them.
+
+</div>
+
+## Insurance -- business insurance
+
+Business insurance
+- <div class="red">Liability insurance</div>
+- Errors and Omissions insurance
+
+<div class="notes">
+
+Issues that raise concern about the need for liability insurance are working with a wide range of clients, working on projects with a forseeable possibility that a third party might try to sue your client and you both, working on projects that involve life or death decisions, such as a Data Safety and Monitoring Board.
+
+</div>
+
+## Insurance -- business insurance
+
+Business insurance
+- Liability insurance
+- <div class="red">Errors and Omissions (E&O) insurance</div>
+
+<div class="notes">
+
+There are other things you could be sued about that might not be covered by most liability insurance packages. Some examples: An error in your data analysis causes a delay in FDA approval of a new drug. The company sues you for lost income; Your automated real-time monitoring software causes a failure in the assembly line. The company sues you for re-tooling costs. These types of problems are covered by E&O insurance.
+
+</div>
 
 ## Summary
 
