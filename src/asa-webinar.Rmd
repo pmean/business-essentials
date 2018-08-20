@@ -33,17 +33,7 @@ I will not talk about how to find new customers, as that is a topic important en
 
 ## A bit about myself
 
-![Alt text: Various logos of places where I work, plus a mug shot](../images/various-logos-1.png)
-
-Visit my websites
-
-- http://www.pmean.com
-
-- http://blog.pmean.com
-
-or you can contact me various ways
-
-- http://www.pmean.com/contact.html
+![Alt text: My logo, plus a mug shot](../images/my-logo-plus-mug-shot.png)
 
 <div class="notes">
 
@@ -182,7 +172,7 @@ It’s important to note that the rules on each of these business models vary fr
 
 </div>
 
-## Billing
+## Accounting -- How to bill
 
 You have two choices
 
@@ -197,13 +187,49 @@ If you bill by the project, get a scope of work in writing. If the scope of the 
 
 </div>
 
-## You get paid through an invoice
+## Accounting -- Invoicing
 
 ![Alt text: Image of a sample invoice](../images/sample-invoice-0000.png)
 
-## Set up a separate bank account
+<div class="notes">
 
-Keep business and personal expenses separated.
+You need a way to get paid and most business will ask for an invoice before you get paid. You can find professional style invoices if you invest in accounting software.
+
+You can also produce business-quality invoices with a standard word processing document or spreadsheet. A simple Internet search for “sample invoice template” works well.
+
+</div>
+
+## Accounting -- Invoicing
+
+The invoice should include
+
+- your name and address,
+- the name and address of your client,
+- the date the invoice was printed,
+- a unique invoice number,
+- who the check should be made out to (your name or your company’s name).
+- your price with itemization details, and
+- a due date on the invoice or a rate that would apply if the invoice is paid late.
+
+<div class="notes">
+
+There is no legal requirements for an invoice, so all of these are suggestions.
+
+</div>
+
+## Accounting - separate checking account.
+
+Set up a business checking account.
+
+- Deposit business income here
+- Pay business expenses here
+- Transfer money as needed to your personal account.
+
+<div class="notes">
+
+The separate account is very important if you want to document business expenses and deduct them from your business income for tax purposes. Do not mix business and personal expenses as it makes it harder for you if your taxes should be audited.
+
+</div>
 
 ## Contracts
 
@@ -272,16 +298,20 @@ Business insurance
 
 ## Summary
 
-I hope I don't forget to include a summary here!
+In this talk, we reviewed the 
+
+- business entities, 
+- billing options,
+- contacts, and
+- insurance options.
 
 The slides for this talk are available at 
 
-https://github.com/pmean/business-essentials
-
+- https://github.com/pmean/business-essentials
 
 <div class="notes">
 
-Here's a review of everything I covered. Thank you and let me know if I need to address any deficiencies.
+Here's a review of everything I covered. Thank you and let me know if you have any questions.
 
 </div>
 
