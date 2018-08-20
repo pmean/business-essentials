@@ -246,7 +246,7 @@ An S corporation/C corporation also produces an independent legal entity that co
 
 ## Questions to ask about business entities
 
-- <div class="red">Are you taking out a loan to start your inpependent consulting business?</div>
+- <div class="red">Are you taking out a loan to start your independent consulting business?</div>
 
 - How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
 
@@ -425,14 +425,12 @@ The best advice I heard about contracts was in an email sent to the Consulting S
 ## Insurance -- personal insurance
 
 Personal insurance
+
 - Life insurance
 - Health insurance
 - Disability insurance
 - etc.
 
-Business insurance
-- Liability insurance
-- Errors and Omissions insurance
 
 <div class="notes">
 
@@ -443,6 +441,7 @@ Before you quit your normal job, talk to human resources about options to contin
 ## Insurance -- business insurance
 
 Business insurance
+
 - <div class="red">Liability insurance</div>
 - Errors and Omissions insurance
 
@@ -455,6 +454,7 @@ Issues that raise concern about the need for liability insurance are working wit
 ## Insurance -- business insurance
 
 Business insurance
+
 - Liability insurance
 - <div class="red">Errors and Omissions (E&O) insurance</div>
 
