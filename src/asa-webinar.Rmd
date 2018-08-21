@@ -33,7 +33,7 @@ I will not talk about how to find new customers, as that is a topic important en
 
 ## A bit about myself
 
-![](../images/my-logo-plus-mug-shot.png)
+![](../images/my-logo-plus-mug-shot.png "P.Mean Consulting logo plus a picture of myself")
 
 <div class="notes">
 
@@ -262,7 +262,7 @@ High litigation risk may make you seek out the protections of an LLC or S/C corp
 
 <div class="notes">
 
-- You may not see substantial tax savings with different business models, but an S/C corporation offers ways to report income through different routes with different tax implications. The S/C corporation might also offer tax advantages to the payment of health benefits to yourself and your family.
+You may not see substantial tax savings with different business models, but an S/C corporation offers ways to report income through different routes with different tax implications. The S/C corporation might also offer tax advantages to the payment of health benefits to yourself and your family.
 
 </div>
 
@@ -278,7 +278,7 @@ High litigation risk may make you seek out the protections of an LLC or S/C corp
 
 <div class="notes">
 
-- The sole proprietorship has the fewest complications and the S/C corporation has the most complications.
+The sole proprietorship has the fewest complications and the S/C corporation has the most complications.
 
 It’s important to note that the rules on each of these business models vary from state to state! Talk to a lawyer, talk to a lawyer, talk to a lawyer!
 
@@ -303,7 +303,7 @@ Billing by the project gets your client to think in terms of how valuable the wo
 
 ## Accounting -- Invoicing
 
-![](../images/sample-invoice.png)
+![](../images/sample-invoice.png "Image of a sample invoice for statistical consulting services")
 
 <div class="notes">
 
@@ -450,7 +450,7 @@ There are other things you could be sued about that might not be covered by most
 In this talk, we reviewed the 
 
 - business entities, 
-- billing options,
+- accounting,
 - contacts, and
 - insurance options.
 
