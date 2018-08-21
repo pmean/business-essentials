@@ -33,19 +33,11 @@ I will not talk about how to find new customers, as that is a topic important en
 
 ## A bit about myself
 
-![Alt text: My logo, plus a mug shot](../images/my-logo-plus-mug-shot.png)
+![](../images/my-logo-plus-mug-shot.png)
 
 <div class="notes">
 
-I have three jobs! I am a part-time independent consultant with a sole proprietorship, P.Mean Consulting. P. Mean is short for Professor Mean, my alter-ego on the Internet. For those who don't get the joke, I point out the Professor Mean is not just your average professor.
-
 When I started my own consulting business, there were no obvious guides written by statisticians on how to do this, so I started documenting things and presented these at various conferences and on the web. I’ve also gotten a lot of advice along the way from other independent statistical consultants.
-
-I am also a part-time faculty member in the Department of Biomedical and Health Informatics at the University of Missouri-Kansas City. 
-
-I also have a research grant with Enterprise Analytics at Kansas University Medical Center.
-
-If anyone is familiar with the computer term "thrashing", that is a definition of my life now. I am looking for a single full-time benefits eligible job.
 
 </div>
 
@@ -85,7 +77,7 @@ If you are an independent consultant, you work by yourself (or in a very small g
 
 Cons
  
-- No support network
+- <div class="red">No support network</div>
 - No subsidization for professional development
 - Highly variable workload
 
@@ -97,23 +89,7 @@ Pros
 
 Here are some of the ways that independent consulting is different.
 
-</div>
-
-## How independent consulting is different
-
-Cons
- 
-- <div class="red">No support network</div>
-- No subsidization for professional development
-- Highly variable workload
-
-Pros
-
-- You are your own boss.
-
-<div class="notes">
-
-If you're on your own, you miss out on a lot of support, such as a Human Resources department. You can't pop your head over the cubicle wall and ask a question. No one will decorate your cubicle balloons on your birthday or bring in delicious food on pot luck Friday. 
+If you're on your own, you miss out on a lot of support, such as a Human Resources department. You can't pop your head over the cubicle wall and ask a question. No one will decorate your cubicle with balloons on your birthday or bring in delicious food on pot luck Friday. 
 
 </div>
 
@@ -182,9 +158,7 @@ Caution: I am not a lawyer. Also laws about business entities vary greatly from 
 
 <div class="notes">
 
-You can start as a sole proprietorship and convert to an LLC or S/C corporation later. You can also convert an LLC to an S/C corporation.
-
-I am a sole proprietorship, but that choice may not be the right one for you. Talk to a lawyer about these choices.
+You can start as a sole proprietorship and convert to an LLC or S/C corporation later. You can also convert an LLC to an S/C corporation. You should think about changing your business entity when your business grows (i.e., when you hire someone to work with you).
 
 </div>
 
@@ -210,9 +184,9 @@ In a sole proprietorship, you are doing business under your name.  You do not ne
 
 <div class="notes">
 
-In a partnership, two or more people share ownership of a business. In a partnership, partners are jointly and individually liable. You must define issues associated with dividing profits and the different responsibilities of each partner. You also need rules on how to add new partners and how to dissolve the partnership.
+In a partnership, two or more people share ownership of a business. Partners are jointly and individually liable. You must define issues associated with dividing profits and the different responsibilities of each partner. You also need rules on how to add new partners and how to dissolve the partnership.
 
-I do not recommend a business partnership. It's very complicated to set up properly. It would be simpler for you to set up your own business entity and then subcontract some of the work to your "partner".
+I do not recommend a business partnership. It would be simpler for you to set up your own business entity and then subcontract some of the work to your "partner".
 
 </div>
 
@@ -222,8 +196,6 @@ I do not recommend a business partnership. It's very complicated to set up prope
 - ~~Business partnership~~
 - <div class="red">Limited Liability Corporation (LLC)</div>
 - S chapter/C chapter corporation
-
-Caution: I am not a lawyer. Also laws about business entities vary greatly from state to state.
 
 <div class="notes">
 
@@ -240,7 +212,7 @@ A limited liability company (LLC) produces an independent legal entity that cond
 
 <div class="notes">
 
-An S corporation/C corporation also produces an independent legal entity that conducts business under its own name. It has some protection against creditors and litigants. It has more stringent legal requirements than an LLC. Like an LLC, it requires paperwork and legal fees. It has special rules for taxation that can sometime save you money. Tax rules are the biggest differentiation between an LLC and an S/C corporation and also the biggest differentiation between an S corporation and a C corporation.
+An S corporation/C corporation has some protection against creditors and litigants. It has more stringent legal requirements than an LLC. Like an LLC, it requires paperwork and legal fees. It has special rules for taxation that can sometime save you money. Tax rules are the biggest differentiation between an LLC and an S/C corporation and also between an S corporation and a C corporation.
 
 </div>
 
@@ -248,7 +220,7 @@ An S corporation/C corporation also produces an independent legal entity that co
 
 - <div class="red">Are you taking out a loan to start your independent consulting business?</div>
 
-- How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
+- How likely are you to be sued by your customers? 
 
 - How sensitive are you to tax issues?
 
@@ -266,7 +238,7 @@ Here are some questions to ask before deciding on sole proprietorship or LLC or 
 
 - Are you taking out a loan to start your independent consulting business?
 
-- <div class="red">How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.</div>
+- <div class="red">How likely are you to be sued by your customers?</div>
 
 - How sensitive are you to tax issues?
 
@@ -274,7 +246,7 @@ Here are some questions to ask before deciding on sole proprietorship or LLC or 
 
 <div class="notes">
 
-- An S/C corporation offers ways to route income through different routes with different tax implications. The S/C corporation might also offer tax advantages to the payment of health benefits to yourself.
+High litigation risk may make you seek out the protections of an LLC or S/C corporation.
 
 </div>
 
@@ -290,7 +262,7 @@ Here are some questions to ask before deciding on sole proprietorship or LLC or 
 
 <div class="notes">
 
-- You may or may not see substantial tax savings with different business models.
+- You may not see substantial tax savings with different business models, but an S/C corporation offers ways to report income through different routes with different tax implications. The S/C corporation might also offer tax advantages to the payment of health benefits to yourself and your family.
 
 </div>
 
@@ -323,13 +295,15 @@ The average rate is $130 per hour. See the 2006 issue of the Statistical Consult
 
 <div class="notes">
 
-If you bill by the project, get a scope of work in writing. If the scope of the project changes ("can I add one little thing?"), then change the 
+If you bill by the project, get a scope of work in writing. If the scope of the project changes ("can I add one little thing?"), then change the fee.
+
+Billing by the project gets your client to think in terms of how valuable the work is to them and (if you estimate your time well) will result in more income for you. Billing by the hour is faster and less risky.
 
 </div>
 
 ## Accounting -- Invoicing
 
-![Alt text: Image of a sample invoice](../images/sample-invoice-0000.png)
+![](../images/sample-invoice.png)
 
 <div class="notes">
 
@@ -376,12 +350,11 @@ The separate account is very important if you want to document business expenses
 “A verbal contract isn’t worth the paper it is written on.”
 Samuel Goldwyn, found at www.brainyquote.com/quotes/quotes/s/samuelgold122394.html
 
-You can dispense with a contract if you trust the other party to treat you fairly or if you are willing to handle an unresolvable dispute by forgoing your consulting fee.
+You can dispense with a contract if you trust the other party to treat you fairly AND if you are willing to handle an unresolvable dispute by forgoing your consulting fee.
 
 <div class="notes">
 
 Even if you don’t have a formal contract, you should send an email that outlines your understanding of what you will do and when and what you expect from your client.
-
 
 </div>
 
@@ -407,10 +380,18 @@ Look out for provisions that
 
 - place all the responsibility in your lap should a third party decide to sue your client.
 - limit your ability to seek redress if there is a dispute between you and the client
-- place unreasonable demands on you (e.g., carrying an excessive amount of insurance).
+- place unreasonable demands on you.
 - that limit your ability to re-use your own code for other clients.
 - that restrict your consulting fee to the lowest amount that you charge anyone else.
 - that make your fee contingent on a certain statistical outcome.
+
+<div class="notes">
+
+If someone demands that you use their contract, have it reviewed by a lawyer (at least for your very first contract).
+
+"Unreasonable demands" could mean asking you to carry an excessive amount of insurance.
+
+</div>
 
 ## Some good advice on contracts
 
