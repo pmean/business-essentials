@@ -23,6 +23,8 @@ In this presentation, you will learn to
 
 I owe a great debt gratitude for the many interesting questions and  comments posted on the Statistical Consulting Section discussion forum.
 
+This presentation was last modified on `r date()`.
+
 <div class="notes">
 
 Here's a brief outline of what I'll talk about today. I will try to keep my comments to 60 minutes of this 90 minute webinar. Ask questions as they occur to you, but I will not answer them until the last 30 minutes.
@@ -57,12 +59,12 @@ I have two dreams. I want to be the Principal Investigator for a big NIH grant a
 
 You are an internal consultant if
 
-- you are part of a larger organization
+- you are part of a larger organization and
 - you have a "boss".
 
 You are an independent consulant if
 
-- you work alone (or in a small group)
+- you work alone (or in a small group) and
 - you are your own boss.
 
 <div class="notes">
@@ -219,11 +221,8 @@ An S corporation/C corporation has some protection against creditors and litigan
 ## Questions to ask about business entities
 
 - <div class="red">Are you taking out a loan to start your independent consulting business?</div>
-
 - How likely are you to be sued by your customers? 
-
 - How sensitive are you to tax issues?
-
 - How complicated do you want your legal/accounting life to be? 
 
 <div class="notes">
@@ -237,11 +236,8 @@ Here are some questions to ask before deciding on sole proprietorship or LLC or 
 ## Questions to ask about business entities
 
 - Are you taking out a loan to start your independent consulting business?
-
 - <div class="red">How likely are you to be sued by your customers?</div>
-
 - How sensitive are you to tax issues?
-
 - How complicated do you want your legal/accounting life to be? 
 
 <div class="notes">
@@ -253,11 +249,8 @@ High litigation risk may make you seek out the protections of an LLC or S/C corp
 ## Questions to ask about business entities
 
 - Are you taking out a loan to start your independent consulting business?
-
-- How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
-
+- How likely are you to be sued by your customers?
 - <div class="red">How sensitive are you to tax issues?</div>
-
 - How complicated do you want your legal/accounting life to be?
 
 <div class="notes">
@@ -269,11 +262,8 @@ You may not see substantial tax savings with different business models, but an S
 ## Questions to ask about business entities
 
 - Are you taking out a loan to start your independent consulting business?
-
-- How likely are you to be sued by your customers? High litigation risk may make you seek out the protections of an LLC or S/C corporation.
-
+- How likely are you to be sued by your customers?
 - How sensitive are you to tax issues?
-
 - <div class="red">How complicated do you want your legal/accounting life to be?</div>
 
 <div class="notes">
